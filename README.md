@@ -31,6 +31,9 @@ The presence of noise can significantly degrade the quality of digital images, a
 
 ### Installation
 
-1. Clone the repository:
+<!--1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/imagedenoising.git
+   git clone https://github.com/yourusername/imagedenoising.git -->
+
+
+
