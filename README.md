@@ -29,9 +29,10 @@ The presence of noise can significantly degrade the quality of digital images, a
 - OpenCV
 - Scikit-Image
 
-### Installation
 
-<!--1. Clone the repository:
+
+<!-- ### Installation
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/imagedenoising.git -->
 
